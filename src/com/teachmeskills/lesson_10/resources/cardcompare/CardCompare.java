@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson_10.ResourcesForTheProgram.CardCompare;
+package com.teachmeskills.lesson_10.resources.cardcompare;
 
-import com.teachmeskills.lesson_10.ResourcesForTheProgram.CreditCard.CreditCard;
+import com.teachmeskills.lesson_10.resources.creditcard.CreditCard;
 
 public class CardCompare {
 

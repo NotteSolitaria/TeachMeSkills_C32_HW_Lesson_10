@@ -1,7 +1,7 @@
 package com.teachmeskills.lesson_10;
 
-import com.teachmeskills.lesson_10.ResourcesForTheProgram.CardCompare.CardCompare;
-import com.teachmeskills.lesson_10.ResourcesForTheProgram.Client.Client;
+import com.teachmeskills.lesson_10.resources.cardcompare.CardCompare;
+import com.teachmeskills.lesson_10.resources.client.Client;
 
 /**
  * There is a client.

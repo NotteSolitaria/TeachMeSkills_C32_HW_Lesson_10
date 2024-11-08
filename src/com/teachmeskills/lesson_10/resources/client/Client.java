@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson_10.ResourcesForTheProgram.Client;
+package com.teachmeskills.lesson_10.resources.client;
 
-import com.teachmeskills.lesson_10.ResourcesForTheProgram.CreditCard.CreditCard;
+import com.teachmeskills.lesson_10.resources.creditcard.CreditCard;
 
 import java.util.Scanner;
 

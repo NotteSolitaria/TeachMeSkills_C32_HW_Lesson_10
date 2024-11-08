@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson_10.ResourcesForTheProgram.CreditCard;
+package com.teachmeskills.lesson_10.resources.creditcard;
 
 import java.util.Objects;
 
